@@ -1,0 +1,14 @@
+base
+rmdformats
+prettydoc
+dplyr
+fpp2
+ggplot2
+forecast
+fma
+expsmooth
+kableExtra
+rmarkdown
+tsfknn
+knitr
+tableHTML
